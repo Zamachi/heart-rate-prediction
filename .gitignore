@@ -1,0 +1,8 @@
+.venv
+*tsv
+*.log
+imdb.ipynb
+main.py
+main.ipynb
+test*.csv
+tips.csv
